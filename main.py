@@ -7,7 +7,7 @@ import numpy as np
 import tempfile
 import matplotlib.pyplot as plt
 
-DEMO_VIDEO = './horizonte.mp4'
+DEMO_VIDEO = './Factory worker .mp4'
 
 # Inicialize o mediapipe
 mp_pose = mp.solutions.pose
